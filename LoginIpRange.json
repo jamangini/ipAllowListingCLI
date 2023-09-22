@@ -1,0 +1,45 @@
+{
+  "records": [
+    {
+      "Description": "SFDC Internal Range for VPN West1 (Phoenix)",
+      "IpEndAddress": "13.110.54.0",
+      "IpStartAddress": "13.110.54.255"
+    },
+    {
+      "Description": "SFDC Internal Range for VPN EMEA1 (Frankfurt)",
+      "IpEndAddress": "85.222.134.255",
+      "IpStartAddress": "85.222.134.0"
+    },
+    {
+      "Description": "SFDC Internal Range for VPN APAC (Mumbai)",
+      "IpEndAddress": "104.161.246.255",
+      "IpStartAddress": "104.161.246.0"
+    },
+    {
+      "Description": "SFDC Internal Range for VPN East (ASH)",
+      "IpEndAddress": "204.14.236.255",
+      "IpStartAddress": "204.14.236.0"
+    },
+    {
+      "Description": "SFDC Internal Range for VPN APJ (Sydney)",
+      "IpEndAddress": "221.133.209.159",
+      "IpStartAddress": "221.133.209.128"
+    },
+    {
+      "Description": "SFDC Internal Range for VPN APJ (Tokyo/HND1)",
+      "IpEndAddress": "104.161.242.255",
+      "IpStartAddress": "104.161.242.0"
+    },
+    {
+      "Description": "SFDC Internal Range for VPN APJ (Sidney/SYD2)",
+      "IpEndAddress": "104.161.244.255",
+      "IpStartAddress": "104.161.244.0"
+    },
+    {
+      "Description": "SFDC Internal Range for VPN West (Seattle/SEA3)",
+      "IpEndAddress": "66.203.115.255",
+      "IpStartAddress": "66.203.115.0"
+    }
+    ],
+  "totalSize": 8
+}
