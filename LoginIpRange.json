@@ -1,5 +1,4 @@
-{
-  "records": [
+{[
     {
       "Description": "SFDC Internal Range for VPN West1 (Phoenix)",
       "IpEndAddress": "13.110.54.0",
@@ -40,6 +39,5 @@
       "IpEndAddress": "66.203.115.255",
       "IpStartAddress": "66.203.115.0"
     }
-    ],
-  "totalSize": 8
+]
 }
