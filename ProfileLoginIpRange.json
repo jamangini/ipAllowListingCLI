@@ -1,44 +1,83 @@
 {
     "records": [
         {
-          "description": "SFDC Internal Range for VPN West1 (Phoenix)",
-          "endAddress": "13.110.54.0",
-          "startAddress": "13.110.54.255"
+            "apex_schema_type_info": "(http://soap.sforce.com/2006/04/metadata, true, false)",
+            "field_order_type_info": "(description, endAddress, startAddress)",
+            "description": "SFDC Internal Range for VPN West1 (Phoenix)",
+            "description_type_info": "(description, http://soap.sforce.com/2006/04/metadata, null, 0, 1, false)",
+            "endAddress": "13.110.54.0",
+            "endAddress_type_info": "(endAddress, http://soap.sforce.com/2006/04/metadata, null, 1, 1, false)",
+            "startAddress": "13.110.54.255",
+            "startAddress_type_info": "(startAddress, http://soap.sforce.com/2006/04/metadata, null, 1, 1, false)"
         },
         {
-          "description": "SFDC Internal Range for VPN EMEA1 (Frankfurt)",
-          "endAddress": "85.222.134.255",
-          "startAddress": "85.222.134.0"
+            "apex_schema_type_info": "(http://soap.sforce.com/2006/04/metadata, true, false)",
+            "field_order_type_info": "(description, endAddress, startAddress)",
+            "description": "SFDC Internal Range for VPN EMEA1 (Frankfurt)",
+            "description_type_info": "(description, http://soap.sforce.com/2006/04/metadata, null, 0, 1, false)",
+            "endAddress": "85.222.134.255",
+            "endAddress_type_info": "(endAddress, http://soap.sforce.com/2006/04/metadata, null, 1, 1, false)",
+            "startAddress": "85.222.134.0",
+            "startAddress_type_info": "(startAddress, http://soap.sforce.com/2006/04/metadata, null, 1, 1, false)"
         },
         {
-          "description": "SFDC Internal Range for VPN APAC (Mumbai)",
-          "endAddress": "104.161.246.255",
-          "startAddress": "104.161.246.0"
+            "apex_schema_type_info": "(http://soap.sforce.com/2006/04/metadata, true, false)",
+            "field_order_type_info": "(description, endAddress, startAddress)",
+            "description": "SFDC Internal Range for VPN APAC (Mumbai)",
+            "description_type_info": "(description, http://soap.sforce.com/2006/04/metadata, null, 0, 1, false)",
+            "endAddress": "104.161.246.255",
+            "endAddress_type_info": "(endAddress, http://soap.sforce.com/2006/04/metadata, null, 1, 1, false)",
+            "startAddress": "104.161.246.0",
+            "startAddress_type_info": "(startAddress, http://soap.sforce.com/2006/04/metadata, null, 1, 1, false)"
         },
         {
-          "description": "SFDC Internal Range for VPN East (ASH)",
-          "endAddress": "204.14.236.255",
-          "startAddress": "204.14.236.0"
+            "apex_schema_type_info": "(http://soap.sforce.com/2006/04/metadata, true, false)",
+            "field_order_type_info": "(description, endAddress, startAddress)",
+            "description": "SFDC Internal Range for VPN East (ASH)",
+            "description_type_info": "(description, http://soap.sforce.com/2006/04/metadata, null, 0, 1, false)",
+            "endAddress": "204.14.236.255",
+            "endAddress_type_info": "(endAddress, http://soap.sforce.com/2006/04/metadata, null, 1, 1, false)",
+            "startAddress": "204.14.236.0",
+            "startAddress_type_info": "(startAddress, http://soap.sforce.com/2006/04/metadata, null, 1, 1, false)"
         },
         {
-          "description": "SFDC Internal Range for VPN APJ (Sydney)",
-          "endAddress": "221.133.209.159",
-          "startAddress": "221.133.209.128"
+            "apex_schema_type_info": "(http://soap.sforce.com/2006/04/metadata, true, false)",
+            "field_order_type_info": "(description, endAddress, startAddress)",
+            "description": "SFDC Internal Range for VPN APJ (Sydney)",
+            "endAddress": "221.133.209.159",
+            "endAddress_type_info": "(endAddress, http://soap.sforce.com/2006/04/metadata, null, 1, 1, false)",
+            "startAddress": "221.133.209.128",
+            "startAddress_type_info": "(startAddress, http://soap.sforce.com/2006/04/metadata, null, 1, 1, false)"
         },
         {
-          "description": "SFDC Internal Range for VPN APJ (Tokyo/HND1)",
-          "endAddress": "104.161.242.255",
-          "startAddress": "104.161.242.0"
+            "apex_schema_type_info": "(http://soap.sforce.com/2006/04/metadata, true, false)",
+            "field_order_type_info": "(description, endAddress, startAddress)",
+            "description": "SFDC Internal Range for VPN APJ (Tokyo/HND1)",
+            "description_type_info": "(description, http://soap.sforce.com/2006/04/metadata, null, 0, 1, false)",
+            "endAddress": "104.161.242.255",
+            "endAddress_type_info": "(endAddress, http://soap.sforce.com/2006/04/metadata, null, 1, 1, false)",
+            "startAddress": "104.161.242.0",
+            "startAddress_type_info": "(startAddress, http://soap.sforce.com/2006/04/metadata, null, 1, 1, false)"
         },
         {
-          "description": "SFDC Internal Range for VPN APJ (Sidney/SYD2)",
-          "endAddress": "104.161.244.255",
-          "startAddress": "104.161.244.0"
+            "apex_schema_type_info": "(http://soap.sforce.com/2006/04/metadata, true, false)",
+            "field_order_type_info": "(description, endAddress, startAddress)",
+            "description": "SFDC Internal Range for VPN APJ (Sidney/SYD2)",
+            "description_type_info": "(description, http://soap.sforce.com/2006/04/metadata, null, 0, 1, false)",
+            "endAddress": "104.161.244.255",
+            "endAddress_type_info": "(endAddress, http://soap.sforce.com/2006/04/metadata, null, 1, 1, false)",
+            "startAddress": "104.161.244.0",
+            "startAddress_type_info": "(startAddress, http://soap.sforce.com/2006/04/metadata, null, 1, 1, false)"
         },
         {
-          "description": "SFDC Internal Range for VPN West (Seattle/SEA3)",
-          "endAddress": "66.203.115.255",
-          "startAddress": "66.203.115.0"
+            "apex_schema_type_info": "(http://soap.sforce.com/2006/04/metadata, true, false)",
+            "field_order_type_info": "(description, endAddress, startAddress)",
+            "description": "SFDC Internal Range for VPN West (Seattle/SEA3)",
+            "description_type_info": "(description, http://soap.sforce.com/2006/04/metadata, null, 0, 1, false)",
+            "endAddress": "66.203.115.255",
+            "endAddress_type_info": "(endAddress, http://soap.sforce.com/2006/04/metadata, null, 1, 1, false)",
+            "startAddress": "66.203.115.0",
+            "startAddress_type_info": "(startAddress, http://soap.sforce.com/2006/04/metadata, null, 1, 1, false)"
         }
     ],
     "totalSize": 8
