@@ -2,8 +2,8 @@
     "records": [
         {
           "description": "SFDC Internal Range for VPN West1 (Phoenix)",
-          "endAddress": "13.110.54.0",
-          "startAddress": "13.110.54.255"
+          "endAddress": "13.110.54.255",
+          "startAddress": "13.110.54.0"
         },
         {
           "description": "SFDC Internal Range for VPN EMEA1 (Frankfurt)",
